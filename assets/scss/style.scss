@@ -589,7 +589,7 @@ hr.post-end {
   figure {
     max-width: 100%;
     height: auto;
-    margin: 0;
+    margin: 1em;
     text-align: center;
 
     p {
@@ -620,6 +620,7 @@ hr.post-end {
     max-width: 100%;
     height: auto;
     margin: auto;
+    max-height: 50%;
     border-radius: 4px;
   }
 
